@@ -15,7 +15,5 @@
   "env": {
     "SMTP_HOST": "mail.privateemail.com",
     "SMTP_PORT": "587",
-    "SMTP_USER": "@smtp_user",
-    "SMTP_PASS": "@smtp_pass"
   }
 }
